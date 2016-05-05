@@ -1,10 +1,10 @@
 PODS:
-  - MaterialControls (1.0.2)
+  - MaterialControls@custom (1.1.2)
 
 DEPENDENCIES:
-  - MaterialControls (~> 1.0.2)
+  - MaterialControls@custom
 
 SPEC CHECKSUMS:
-  MaterialControls: bdeeb94aa049b73f70739a5514be137d2d45c08a
+  MaterialControls@custom: 68bba23fd6700038047d968cf0eeecbc1ed1f61d
 
 COCOAPODS: 0.39.0

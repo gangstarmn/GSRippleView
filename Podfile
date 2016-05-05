@@ -4,6 +4,6 @@
 # use_frameworks!
 
 target 'GSRippleView' do
-    pod 'MaterialControls', '~> 1.0.2'
+    pod 'MaterialControls@custom'
 end
 

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <MaterialControls/MDRippleLayer.h>
+#import <MaterialControls@custom/MDRippleLayer.h>
 
 @interface GSRippleView : UIView
 IB_DESIGNABLE

@@ -1,6 +1,6 @@
  Pod::Spec.new do |s|
   s.name         = "GSRippleView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "GSRippleView is a RippleView"
   s.description  = <<-DESC
                     It's looks like android RippleView on UIView.
@@ -15,7 +15,5 @@
     
   s.framework = 'UIKit'
   s.requires_arc = true
-
-  s.dependency 'MaterialControls'
-
+  s.dependency 'MaterialControls@custom'
   end
