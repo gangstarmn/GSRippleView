@@ -30,6 +30,7 @@
 }
 
 - (void) awakeFromNib {
+    [super awakeFromNib];
     if (!_rippleColor)
         _rippleColor = [UIColor colorWithWhite:0.9 alpha:1];
     mdLayer = [[MDRippleLayer alloc] initWithSuperLayer:self.layer];
